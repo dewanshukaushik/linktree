@@ -1,3 +1,3 @@
-# portfolio
+#linktree
  
-https://dewanshukaushik.github.io/portfolio/
+https://dewanshukaushik.github.io/linktree/
